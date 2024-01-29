@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=Developer복영헌&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=Developer%100복영헌&fontSize=50)
 
 <!--
 **bokkaa/bokkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
