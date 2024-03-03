@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=안녕하세요!%20복영헌입니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=주니어개발자%20복영헌입니다&fontSize=35)
 
 
 ## 🔨 Once I've used 🔨
