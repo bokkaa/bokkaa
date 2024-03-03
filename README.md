@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
     </div>
     <br>
-      <!--버전 관리-->
+      <!--개발 환경-->
     <p><strong>개발 환경</strong></p>
     <div>
          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
