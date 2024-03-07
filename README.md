@@ -70,4 +70,19 @@
 </div>
 
 
+## 프로젝트
+
+**산책갈개**
+- 강아지 커뮤니티 및 쇼핑 플랫폼
+- Spring Boot + JPA
+
+**BomoBomo**
+- 베이비시터 구인 플랫폼
+- Spring Boot + MyBatis
+
+
+**다잇닭**
+- 다이어트 식품 쇼핑 플랫폼
+- JSP + MyBatis
+
 
