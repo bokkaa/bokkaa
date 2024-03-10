@@ -74,7 +74,7 @@
 **Vue3 게시판 개인 프로젝트**   <a href="https://github.com/bokkaa/vue3-quasar" >상세보기 이동</a>
 - 간단한 커뮤니티 페이지 
 - Vue3 + quasar + firebase
-- <a href="https://vue3-firebase-app-79156.web.app/" >배포 페이지로 이동하기</a>
+- <a href="https://vue3-firebase-app-79156.firebaseapp.com/" >배포 페이지로 이동하기</a>
 <br>
 
 **산책갈개**   <a href="https://github.com/bokkaa/JPA-DW" >상세보기 이동</a>
