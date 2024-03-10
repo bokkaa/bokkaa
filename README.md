@@ -75,16 +75,16 @@
 - 간단한 커뮤니티 페이지 
 - Vue3 + quasar + firebase
 - <a href="https://vue3-firebase-app-79156.web.app/" >배포 페이지로 이동하기</a>
-
+<br>
 **산책갈개**   <a href="https://github.com/bokkaa/JPA-DW" >상세보기 이동</a>
 - 강아지 커뮤니티 및 쇼핑 플랫폼
 - Spring Boot + JPA
-
+<br>
 **BomoBomo**  <a href="https://github.com/bokkaa/SpringBoot-BomoBomo" >상세보기 이동</a>
 - 베이비시터 구인 플랫폼
 - Spring Boot + MyBatis
 
-
+<br>
 **다잇닭**  <a href="https://github.com/bokkaa/JSP-daEatdak" >상세보기 이동</a>
 - 다이어트 식품 쇼핑 플랫폼
 - JSP + MyBatis
