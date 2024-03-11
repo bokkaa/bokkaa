@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=80&section=header&text=주니어개발자%20복영헌입니다&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=80&section=header&text=신입개발자%20복영헌입니다&fontSize=30)
 
 
 ## 🔨 Stack
