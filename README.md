@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=MyBatis&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white">
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
     </div>
     <br>
     <!-- 데이타베이스 -->
