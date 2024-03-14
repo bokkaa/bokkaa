@@ -69,7 +69,6 @@
          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
          <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
-
     </div>
 </div>
 
