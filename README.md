@@ -65,8 +65,11 @@
     <br>
     <p><strong>공부 예정(2024.03 중순~)</strong></p>
     <div>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
          <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
-         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"> 
+
     </div>
 </div>
 
