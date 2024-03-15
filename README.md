@@ -62,7 +62,7 @@
     <p><strong>현재 공부중</strong></p>
     <div>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
-        <a href="https://www.notion.so/AWS-d775dd6196c14d60a012c006ccc2c93b?pvs=4">공부 내용 바로가기</a>
+        <a href="https://www.notion.so/AWS-d775dd6196c14d60a012c006ccc2c93b?pvs=4">공부 내용 바로가기 Updating~</a>
     </div>
     <br>
     <p><strong>공부 예정</strong></p>
