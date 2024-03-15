@@ -67,7 +67,9 @@
     <br>
     <p><strong>공부 예정</strong></p>
     <div>
-         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+        <img src="https://img.shields.io/badge/RESTfulAPI-232F3E?style=flat-square&logo=RESTfulAPI&logoColor=white">
+        <img src="https://img.shields.io/badge/MSA-232F3E?style=flat-square&logo=MSA&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
     </div>
 </div>
 
