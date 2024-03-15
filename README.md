@@ -19,6 +19,7 @@
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
     <br>
     <!-- 프론트엔드 -->
@@ -29,6 +30,8 @@
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white">
     </div>
     <br>
   <!--버전 관리-->
@@ -58,14 +61,11 @@
     <!-- 현재 공부중 및 공부 예 -->
     <p><strong>현재 공부중 (2024.02~)</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-         <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
     </div>
     <br>
-    <p><strong>공부 예정(2024.03 중순~)</strong></p>
+    <p><strong>공부 예정</strong></p>
     <div>
-         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
          <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
     </div>
 </div>
