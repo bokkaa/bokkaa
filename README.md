@@ -53,19 +53,19 @@
     <br>
     <!-- 기타-->
     <p><strong>기타</strong></p>
-    <div>
+    <div style="display:flex; flex-direction:column">
          <img src="https://img.shields.io/badge/JSON-7F52FF?style=flat-square&logo=JSON&logoColor=white">
          <img src="https://img.shields.io/badge/Ajax-7F52FF?style=flat-square&logo=Ajax&logoColor=white">
     </div>
     <br>
     <!-- 현재 공부중 및 공부 예 -->
     <p><strong>현재 공부중</strong></p>
-    <div style="display:flex; flex-direction:column; align-items:center">
-        <div >
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
-            <a style="font-size: 12px; color: green" href="https://purple-weather-7d1.notion.site/AWS-d775dd6196c14d60a012c006ccc2c93b?pvs=4"> 공부 내용 바로가기 Updating~ </a>
-        </div>
+    <div style="display:flex; flex-direction:column">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+        <div>
+        [노션으로 이동하기](https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4)
+        </div>
     </div>
     <br>
     <p><strong>공부 예정</strong></p>
