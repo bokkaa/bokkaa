@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
         <div>
-        [노션으로 이동하기](https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4)
+           <a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
         </div>
     </div>
     <br>
@@ -72,7 +72,6 @@
     <div>
         <img src="https://img.shields.io/badge/RESTfulAPI-232F3E?style=flat-square&logo=RESTfulAPI&logoColor=white">
         <img src="https://img.shields.io/badge/MSA-232F3E?style=flat-square&logo=MSA&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
     </div>
 </div>
 
