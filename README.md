@@ -61,7 +61,7 @@
     <!-- 현재 공부중 및 공부 예 -->
     <p><strong>현재 공부중</strong></p>
     <div style="display:flex; flex-direction:column">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
         <div>
