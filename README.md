@@ -64,9 +64,6 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> -->
-        <div>
-           📌<a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
-        </div>
     </div>
     <br>
     <p><strong>공부 예정</strong></p>
@@ -76,6 +73,7 @@
     </div>
 </div>
 
+## 📌<a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
 
 ## 🖥️ 프로젝트
 **Vue3 게시판 개인 프로젝트**   <a href="https://github.com/bokkaa/vue3-quasar"  >상세보기 이동</a>
