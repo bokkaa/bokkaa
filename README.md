@@ -73,7 +73,7 @@
     </div>
 </div>
 
-## 📌<a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
+## 📌Bokka의 공부기록 <a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
 
 ## 🖥️ 프로젝트
 **Vue3 게시판 개인 프로젝트**   <a href="https://github.com/bokkaa/vue3-quasar"  >상세보기 이동</a>
