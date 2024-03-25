@@ -69,8 +69,8 @@
     <br>
     <p><strong>공부 예정</strong></p>
     <div>
-<!--         <img src="https://img.shields.io/badge/RESTfulAPI-232F3E?style=flat-square&logo=RESTfulAPI&logoColor=white">
-    </div>
+<!--        <img src="https://img.shields.io/badge/RESTfulAPI-232F3E?style=flat-square&logo=RESTfulAPI&logoColor=white">-->
+     </div>
 </div>
 
 ## 📌Bokka의 공부기록 <a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
