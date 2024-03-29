@@ -76,7 +76,7 @@
 ## 📌Bokka의 공부기록 <a href="https://purple-weather-7d1.notion.site/Bokka-22fa22ef15af4c5d9b96afb5247a738f?pvs=4">노션으로 이동하기</a>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    Amazon S3 - 파일 업로드 및 DB 저장 기능 간단 구현 -> <a href="">이동하기</a>
+    Amazon S3 - 파일 업로드 및 DB 저장 기능 간단 구현 -> <a href="https://github.com/bokkaa/amazonPrac">이동하기</a>
 </div>
 
 
