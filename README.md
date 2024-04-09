@@ -77,6 +77,7 @@
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     Amazon S3 - 파일 업로드 및 DB 저장 기능 간단 구현 -> <a href="https://github.com/bokkaa/amazonPrac">이동하기</a>
+    MSA 간단 구현 중 -ing <a href="https://www.notion.so/MSA-Microservice-Architecture-2-1410803889944066a80760316501bda4"> 이동하기</a>
 </div>
 
 
