@@ -16,7 +16,7 @@
     <br>
     <!-- 데이타베이스 -->
     <p><strong>데이터베이스</strong></p>
-    <div>
+    <div style="display:flex; flex-direction:column">
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -54,7 +54,7 @@
     <!-- 기타-->
     <p><strong>기타</strong></p>
     <div style="display:flex; flex-direction:column">
-                <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
          <img src="https://img.shields.io/badge/JSON-7F52FF?style=flat-square&logo=JSON&logoColor=white">
          <img src="https://img.shields.io/badge/Ajax-7F52FF?style=flat-square&logo=Ajax&logoColor=white">
     </div>
